@@ -9,6 +9,12 @@ dot<br>
 edge<br>
 <img src="https://github.com/nooooon/Monnalisa/blob/master/edge/screenshot.png" width="200">
 
+gravityBall<br>
+<img src="https://github.com/nooooon/Monnalisa/blob/master/gravityBall/screenshot.png" width="200">
+
+gravityBox<br>
+<img src="https://github.com/nooooon/Monnalisa/blob/master/gravityBox/screenshot.png" width="200">
+
 line<br>
 <img src="https://github.com/nooooon/Monnalisa/blob/master/line/screenshot.png" width="200">
 
